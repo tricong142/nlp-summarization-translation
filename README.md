@@ -94,7 +94,7 @@ Hệ thống đánh giá sản phẩm đầu ra dựa trên các khía cạnh:
 
 ---
 
-## 💡 Ghi chú của Junior AI Engineer (Kinh nghiệm & Hướng cải tiến)
+## 💡Hướng cải tiến
 * **Xử lý OOV:** FastText hoạt động rất tốt trong việc biểu diễn vector các từ chưa từng thấy trong quá trình train nhờ cơ chế character n-grams.
 * **Tối ưu tốc độ:** Việc áp dụng Disk Cache cho SBERT Embeddings và FastText giúp giảm thời gian khởi chạy từ lần thứ 2 xuống gần 90%.
 * **Hướng phát triển:** 
