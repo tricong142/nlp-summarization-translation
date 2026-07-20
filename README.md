@@ -1,5 +1,5 @@
 # NLP Summarization & Translation Pipeline (v6.1 - Maximum Accuracy)
-> **Dự án được thực hiện bởi:** Junior AI Engineer 
+> **Dự án được thực hiện bởi:** Do Cong Tri
 > **Mục tiêu:** Xây dựng hệ thống lai (Hybrid Pipeline) tự động phân loại, truy xuất thông tin, tóm tắt văn bản tiếng Anh (BART Fine-tuned) và dịch song song sang tiếng Việt (NMT) với độ chính xác tối đa.
 
 Hệ thống kết hợp các kỹ thuật SOTA như **Dense & Sparse Retrieval (SBERT + BM25)**, **MMR (Maximal Marginal Relevance)** để lọc trùng lặp, **BART Fine-tuning** tối ưu với Label Smoothing & FP16, cùng với mô hình **NMT** dịch ở cấp độ câu để bảo lưu thực thể (Entity Preservation).
